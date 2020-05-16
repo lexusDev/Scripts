@@ -1,0 +1,29 @@
+passo 1 - substituição alfabética
+
+a - z
+b - y
+..
+
+passo 2 - substituição pelo valor numérico
+
+a - 1
+b - 2
+..
+passo 3 - multiplicar cada caracter númerico pela sua posição
+
+a - 26*1
+b - 11*2
+..
+
+passo 4 - substituir os espaços por letras aleatórias
+
+26 11
+26H11
+
+
+==
+
+adcional
+
+os espaços originais foram substituidos por :
+as quebras de linha originais, por @
